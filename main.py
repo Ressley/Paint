@@ -5,7 +5,7 @@ draw_on = False
 last_pos = (0, 0)
 color = (255, 128, 0)
 radius = 10
-
+bla = []
 def roundline(srf, color, start, end, radius = 1):
     dx = end[0] - start[0]
     dy = end[1] - start[1]
